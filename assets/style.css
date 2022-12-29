@@ -1,0 +1,9 @@
+
+/* By placing "display flex" in the parent element, we can now add flex to the child element. */
+.placeholder{
+    display: flex;
+}
+/* This is the child element. By adding "Flex wrap wrap" we can now make the screen smaller and see it in action. */
+.placeholder img{
+    flex-wrap: wrap;
+}
